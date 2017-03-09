@@ -3,5 +3,6 @@ a {
 }
 
 #wrapper {
-	background-color: green;
+	max-width: 940px;
+	margin: 0 auto;
 }
