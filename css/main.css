@@ -21,3 +21,7 @@ header {
 	background: #6ab47b;
 	border: #599a68;
 }
+
+h1, h2 {
+	color: #fff;
+}
