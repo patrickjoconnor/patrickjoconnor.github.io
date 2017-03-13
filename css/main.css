@@ -37,6 +37,12 @@ header {
 	width: 100%;
 }
 
+#test {
+	text-align: center;
+	background: #bbb;
+	color: #f02;
+}
+
 #logo {
 	text-align: center;
 	margin: 0;
