@@ -37,12 +37,6 @@ header {
 	width: 100%;
 }
 
-#test {
-	text-align: center;
-	background: #bbb;
-	color: #f02;
-}
-
 #logo {
 	text-align: center;
 	margin: 0;
@@ -60,6 +54,13 @@ h2 {
 	font-size: 0.75em;
 	margin: -5px 0 0;
 	font-weight: normal;
+}
+
+#test {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	background: #bbb;
+	color: #f02;
 }
 
 
