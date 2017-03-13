@@ -39,7 +39,6 @@ header {
 
 #test {
 	text-align: center;
-	background: #ddd;
 }
 
 #test h1 {
@@ -198,6 +197,15 @@ body {
 	color: #999;
 }
 
+#test {
+	background: #ddd;
+}
+
+/* Test Message */
+#test h1 {
+	color: #f02;
+}
+
 /* Green Header */
 header {
 	background: #6ab47b;
@@ -227,9 +235,4 @@ nav a, nav a:visited {
 /* Selected Nav Link */
 nav a.selected, nav a:hover {
 	color: #32673f;
-}
-
-/* Test Message */
-#test h1 {
-	color: #f02;
 }
